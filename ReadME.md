@@ -2,8 +2,12 @@
 
 ## to run
 
-### node app
+```shell
+ node app
+```
 
 ## to run test
 
-### npm test
+````shell
+npm test```
+````
