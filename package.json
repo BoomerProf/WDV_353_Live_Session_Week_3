@@ -1,0 +1,24 @@
+{
+  "name": "wdv_353_live_session_week_3",
+  "version": "1.0.0",
+  "description": "Live Session Week 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node app"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Eric Clarke",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
